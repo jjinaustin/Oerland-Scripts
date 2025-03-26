@@ -635,7 +635,7 @@ window.onload = function() {
                             <p><b>Terrain:</b> ${routeTerrain}</p>
                             
                         </div>
-                        <a href="https://oerland.webflow.io/route/${createSlug(props.name)}" target="_blank">View Full Details</a>
+                        <a href="https://oerland.co/route/${createSlug(props.name)}" target="_blank">View Full Details</a>
                     </div>
                 `;
 
